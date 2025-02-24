@@ -1,6 +1,6 @@
 ---
 title: A Ridiculous Amount of Updates
-tags: Games YA2P GameDev Wordpress
+tags: Games YA2P GameDev WordPress
 ---
 46 out of 149 commits done since the last update
 
