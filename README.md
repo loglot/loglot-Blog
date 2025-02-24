@@ -1,3 +1,9 @@
+
+putting this here because i keep on forgeting: `bundle exec jekyll serve`
+
+
+
+
 # [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
 
 [![license](https://img.shields.io/github/license/kitian616/jekyll-TeXt-theme.svg)](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE)

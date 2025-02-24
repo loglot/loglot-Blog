@@ -1,6 +1,6 @@
 ---
 title: Gamejams And Burnout
-tags: Games GameJam SpaceHey
+tags: Games GameJam SpaceHey YATSS GameDev
 ---
 
 I joined a the [pirate software Game Jam](https://itch.io/jam/pirate/rate/3283345)! woooooo
