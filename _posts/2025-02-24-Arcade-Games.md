@@ -1,6 +1,6 @@
 ---
 title: Games And More
-tags: Games GameDev Originals Mega
+tags: Games GameDev Originals Mega YAC YA2P YAFG YAB Sumo-Dot Deno-0.4 YATSS YASG YAIG YAMP YAGE
 ---
 
 i have made many games, over these few years, and i think it would be good to list them all in one post, 
